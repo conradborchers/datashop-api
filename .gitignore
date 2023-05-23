@@ -1,0 +1,12 @@
+*.html
+*.out
+*.xsd
+*.java
+*.css
+*.jar
+*.txt
+*.gif
+*.properties
+*.swp
+.ipynb_checkpoints/
+api/
