@@ -8,5 +8,6 @@
 *.gif
 *.properties
 *.swp
+*.csv
 .ipynb_checkpoints/
 api/
